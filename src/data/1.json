@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Foo",
+    "slug": "foo",
+    "timeframe": "1",
+    "competitors": [
+      {
+        "name": "Google",
+        "id": "google",
+        "value": 10
+      },
+      {
+        "name": "Microsoft",
+        "id": "microsoft",
+        "value": 5
+      },
+      {
+        "name": "Apple",
+        "id": "apple",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "name": "Foo",
+    "slug": "foo",
+    "timeframe": "2",
+    "competitors": [
+      {
+        "name": "Google",
+        "id": "google",
+        "value": 10
+      },
+
+      {
+        "name": "Apple",
+        "id": "apple",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "name": "Foo",
+    "slug": "foo",
+    "timeframe": "3",
+    "competitors": [
+      {
+        "name": "Microsoft",
+        "id": "microsoft",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "name": "Foo",
+    "slug": "foo",
+    "timeframe": "4",
+    "competitors": []
+  }
+]
