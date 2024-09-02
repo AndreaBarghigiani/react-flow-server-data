@@ -19,10 +19,6 @@ const EmployeesFlow = ({ company, data }: { company: any; data: any[] }) => {
     return acc + +(curr.value ?? 0);
   }, 0);
 
-  console.log({ company });
-  console.log({ data });
-  console.log({ totalEmployee });
-
   const buttonHeight = 40;
   const buttonYMargin = 35;
   const logoHeight = 109;
